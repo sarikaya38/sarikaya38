@@ -31,9 +31,6 @@ I also work as a FreeLancer 🆓.
 
 <br />
 
-## 👩‍💻📱 My Released Applications
-<a href="https://play.google.com/store/apps/details?id=com.turkiyedenHaberler"><img align="left" alt="Türkiye'den Haberler" width="100px" src="https://play-lh.googleusercontent.com/97NpinL4HmRxLDmIPKfCfrZNjf6Vvj3dL8mMIJ7YyLjYzhEKBauicV9stdls0pmVhw=s180-rw" /></a>
-
 
 <br />
 <br />
@@ -57,7 +54,5 @@ I also work as a FreeLancer 🆓.
 [vsCode]: https://code.visualstudio.com/
 
 
-[github]: https://github.com/IbrahimTalha0
-[python]: https://www.python.org/
-[ios]: https://www.apple.com/ios/ios-14/
-[xd]: https://www.adobe.com/products/xd.html
+[github]: https://github.com/sarikaya38
+
