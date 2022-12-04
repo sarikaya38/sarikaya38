@@ -48,7 +48,7 @@ I also work as a FreeLancer 🆓.
 
 <br />
 <br />
-
+https://user-images.githubusercontent.com/111094912/192098018-b1d8de39-fbc5-4831-aad0-177a57021cb1.gif
 
 [linkedin]: https://www.linkedin.com/in/sinan-sarıkaya/
 [gmail]: mailto:sarikayasinan25@gmail.com
