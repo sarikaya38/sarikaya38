@@ -51,9 +51,8 @@ I also work as a FreeLancer 🆓.
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/
-[medium]: https://demiribrahimtalha.medium.com/
-[gmail]: mailto:demiribrahimtalha@gmail.com
+[linkedin]: www.linkedin.com/in/sinan-sarıkaya
+[gmail]: mailto:sarikayasinan25@gmail.com
 [flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
 
