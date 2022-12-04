@@ -33,7 +33,6 @@ I also work as a FreeLancer 🆓.
 [xd]
 
 <br />
-[<img align="left" alt="Adobe XD" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png](https://user-images.githubusercontent.com/111094912/192098018-b1d8de39-fbc5-4831-aad0-177a57021cb1.gif)" />]
 
 <br />
 <br />
