@@ -29,10 +29,11 @@ I also work as a FreeLancer 🆓.
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" />][python]
 [<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][android]
 [<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
-[<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />][xd]
+[<img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />]
+[xd]
 
 <br />
-
+[<img align="left" alt="Adobe XD" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png](https://user-images.githubusercontent.com/111094912/192098018-b1d8de39-fbc5-4831-aad0-177a57021cb1.gif)" />]
 
 <br />
 <br />
@@ -48,7 +49,7 @@ I also work as a FreeLancer 🆓.
 
 <br />
 <br />
-https://user-images.githubusercontent.com/111094912/192098018-b1d8de39-fbc5-4831-aad0-177a57021cb1.gif
+
 
 [linkedin]: https://www.linkedin.com/in/sinan-sarıkaya/
 [gmail]: mailto:sarikayasinan25@gmail.com
