@@ -51,7 +51,7 @@ I also work as a FreeLancer 🆓.
 <br />
 
 
-[linkedin]: www.linkedin.com/in/sinan-sarıkaya/
+[linkedin]: https://www.linkedin.com/in/sinan-sarıkaya/
 [gmail]: mailto:sarikayasinan25@gmail.com
 [flutter]: https://flutter.dev/
 [vsCode]: https://code.visualstudio.com/
