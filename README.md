@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sinan SARIKAYA Software Test Engineer )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sinan SARIKAYA Software Test Engineer;)](https://git.io/typing-svg)
 ##  Software Test Engineer 🚀, I'm a Student 👨‍🎓
 - 🔭 I’m currently working improve my automation framework
 - 🌱 I’m currently learning 😂
