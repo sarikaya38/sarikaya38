@@ -1,6 +1,38 @@
+Hi! Welcome to My Github Profile 👋
+Typing SVG
+
+🔭 I’m Full Stack Automation Engineer
+🌱 I'm working on a project with framework TestNG and Cucumber
+💪 2022 goals : To bring out quality projects.
+⚡ Fun fact : I love coding 💻, writing blog 🖋️, football ⚽ and playing guitar 🎸.
+⏲ What we are doing now : i am writing code 🚀.
+🚀 Skills:
+    testng cucumber    css3 api postman swagger 
+
+💻 IDE:
+     
+
+ AliihsanSen's GitHub stats
+
+github-contribution-grid-snake
+
+🌐 Socials:
+ali.ihsansen/ ali-ihsan-şen Ali İhsan Şen  discord
+
+Visitor count
+
+
+
+
+
+
+
+
+
+
 ### Hi there 👋
 
-I am Md Rashedul Alam Anik, currently working as a Software Engineer at the [Enosis Solutions](https://www.enosisbd.com/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Sinan SARIKAYA, currently working as a Software Engineer at the [Enosis Solutions](https://www.enosisbd.com/). I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinan-sarıkaya)](https://www.linkedin.com/in/sinan-sarıkaya)
 [![Gmail Badge](https://img.shields.io/badge/-sarikayasinan25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarikayasinan25@gmail.com)](mailto:sarikayasinan25@gmail.com)
